@@ -188,42 +188,13 @@ Communication      ██████████████████░░�
 
 ## 🐍 &nbsp;Watch the Snake Eat My Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<Anjanasbr2003>/<Anjanasbr2003>/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<Anjanasbr2003>/<Anjanasbr2003>/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/<Anjanasbr2003>/<Anjanasbr2003>/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anjanasbr2003/Anjanasbr2003/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anjanasbr2003/Anjanasbr2003/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anjanasbr2003/Anjanasbr2003/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🎯 CURRENT LEARNING ROADMAP
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🗺️ &nbsp;Learning Roadmap
-
-```mermaid
-graph LR
-    A["🌐 HTML/CSS/JS"] -->|✅ Done| B["☕ Java & OOP"]
-    B -->|✅ Done| C["🗄️ SQL & PHP"]
-    C -->|✅ Done| D["🐧 Linux & Git"]
-    D -->|✅ Done| E["🔌 IoT & Arduino"]
-    E -->|🔥 Current| F["⚛️ MERN Stack"]
-    F -->|🎯 Next| G["☁️ Cloud & DevOps"]
-    G -->|🔮 Future| H["🤖 AI/ML"]
-    
-    style A fill:#10b981,stroke:#059669,color:#fff
-    style B fill:#10b981,stroke:#059669,color:#fff
-    style C fill:#10b981,stroke:#059669,color:#fff
-    style D fill:#10b981,stroke:#059669,color:#fff
-    style E fill:#10b981,stroke:#059669,color:#fff
-    style F fill:#f59e0b,stroke:#d97706,color:#fff
-    style G fill:#6366f1,stroke:#4f46e5,color:#fff
-    style H fill:#6366f1,stroke:#4f46e5,color:#fff
-```
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      🌐 CONNECT WITH ME

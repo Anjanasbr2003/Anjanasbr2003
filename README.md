@@ -27,7 +27,7 @@
 <!-- Profile Badges -->
 <a href="https://github.com/anjanasbr2003"><img src="https://img.shields.io/badge/🎓_University_of_Ruhuna-BICT-6c3ce0?style=for-the-badge&labelColor=0d1117"/></a>
 <a href="https://github.com/anjanasbr2003"><img src="https://img.shields.io/badge/📍_Ambalantota-Sri_Lanka_🇱🇰-a855f7?style=for-the-badge&labelColor=0d1117"/></a>
-<img src="https://komarev.com/ghpvc/?username=anjanasbr2003&label=Profile%20Views&color=6c3ce0&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+
 
 </div>
 

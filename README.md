@@ -11,7 +11,7 @@
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;%F0%9F%8E%93+BICT+Undergraduate+%40+University+of+Ruhuna;%F0%9F%92%BB+Turning+Coffee+into+Code+Since+Day+One;%F0%9F%8C%8F+Based+in+Ambalantota%2C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;%F0%9F%8E%93+BICT+Undergraduate+At+University+of+Ruhuna;%F0%9F%92%BB+Turning+Coffee+into+Code+Since+Day+One;%F0%9F%8C%8F+Based+in+Ambalantota%2C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 </a>
 
 <br/>

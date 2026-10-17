@@ -55,7 +55,6 @@ motto: "Code. Create. Conquer. 🚀"
 - 🎓 &nbsp;**BICT Undergraduate** at the **University of Ruhuna**
 - 🌱 &nbsp;Currently diving deep into the **MERN Stack**
 - 🔭 &nbsp;Passionate about building **full-stack web applications**
-- ⚡ &nbsp;Fun fact: I debug with `console.log` and I'm **proud** of it!
 - 📫 &nbsp;Reach me at **anjanasbr2003@gmail.com**
 
 <br/><br/>

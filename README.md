@@ -225,14 +225,11 @@ Communication      ██████████████████░░�
 <div align="center">
 
 ## 🐍 &nbsp;Watch the Snake Eat My Contributions
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjanasbr2003/anjanasbr2003/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjanasbr2003/anjanasbr2003/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anjanasbr2003/anjanasbr2003/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake.svg">
 </picture>
-
-> 💡 *Set up the [snake workflow](https://github.com/Platane/snk) in your profile repo to make this come alive!*
 
 </div>
 

@@ -168,7 +168,7 @@ PHP                ██████████████░░░░░░�
 SQL                ████████████████░░░░░   80%
 Linux              █████████████░░░░░░░░   65%
 IoT (Arduino)      ██████████░░░░░░░░░░░   50%
-MERN Stack         ████████████░░░░░░░░░   60%  ← Currently Learning! 🔥
+MERN Stack         ████████████░░░░░░░░░   60%
 DSA                ██████████████░░░░░░░   70%
 Git & GitHub       ████████████████░░░░░   80%
 OOP                ████████████████░░░░░   80%
@@ -178,45 +178,7 @@ Communication      ██████████████████░░�
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🔥 GITHUB STATS WITH 3D ANIMATIONS
-     ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-## 📈 &nbsp;GitHub Analytics
-
-<br/>
-
-<p>
-<a href="https://github.com/anjanasbr2003">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjanasbr2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&border_color=6c3ce0&bg_color=0d1117&title_color=a855f7&icon_color=e879f9&text_color=ffffff&ring_color=6c3ce0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanasbr2003&layout=compact&langs_count=8&theme=radical&border_radius=15&border_color=6c3ce0&bg_color=0d1117&title_color=a855f7&text_color=ffffff"/>
-</a>
-</p>
-
-<br/>
-
-<!-- 🔥 Streak Stats -->
-<a href="https://github.com/anjanasbr2003">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjanasbr2003&theme=radical&border=6c3ce0&background=0D1117&stroke=6c3ce0&ring=a855f7&fire=e879f9&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=a855f7&dates=8b949e&border_radius=15"/>
-</a>
-
-<br/><br/>
-
-<!-- 🏆 GitHub Trophies -->
-<a href="https://github.com/anjanasbr2003">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjanasbr2003&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-</a>
-
-<br/><br/>
-
-<!-- 📊 Activity Graph -->
-<a href="https://github.com/anjanasbr2003">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjanasbr2003&bg_color=0d1117&color=a855f7&line=e879f9&point=ffffff&area_color=6c3ce0&area=true&hide_border=true&custom_title=📊%20Contribution%20Graph"/>
-</a>
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      🐍 SNAKE ANIMATION
